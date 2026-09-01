@@ -25,8 +25,8 @@ export default function Hero() {
       </div>
 
       {/* TREŚĆ */}
-      <div className="site-container relative z-10 flex min-h-[calc(100svh-68px)] items-center">
-        <div className="max-w-[560px] pt-4 md:pt-0">
+      <div className="site-container relative z-10 flex min-h-[calc(100svh-68px)] items-end">
+        <div className="max-w-[560px] pt-16 md:pt-20">
 
           {/* EYEBROW */}
           <div className="opacity-0 animate-fade-up">
