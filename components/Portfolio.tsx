@@ -54,11 +54,7 @@ const photos = [
     alt: "Sesja sensualna - fotografia kobieca",
     className: "md:col-span-7 md:mt-20",
   },
-  {
-    src: "/images/portfolio11.jpg",
-    alt: "Sesja sensualna - fotografia kobieca",
-    className: "md:col-span-5 md:mt-28",
-  },
+
 
 ];
 
